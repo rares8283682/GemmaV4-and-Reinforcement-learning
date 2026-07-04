@@ -20,11 +20,10 @@ Thumbs.db
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# User requested exclusions (from images)
+# Private exclusions
 paper_work/
 analysis_notebooks/
 old/
-old_recent/
 presentation/
 
 # Exclude any data directories, especially inside model subfolders
